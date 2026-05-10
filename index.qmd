@@ -1,0 +1,26 @@
+---
+title: "Yihao Tan"
+about:
+  template: trestles
+  links:
+    - icon: file-earmark-pdf
+      text: Curriculum Vitae
+      href: cv.pdf
+    - icon: envelope
+      text: Email
+      href: mailto:yihaotan@buffalo.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/YihaoTancn
+---
+
+## Bio
+
+I am is a Ph.D. candidate in Biostatistics at the State University of New York at Buffalo, with an expected graduation in December 2026. My research focuses on Bayesian Analysis, Empirical Bayes, Non-parametric Statistics, Clustering, Pharmacovigilance. 
+
+## Curriculum Vitae
+
+A comprehensive record of my academic and professional experience is available for download.
+
+[View full CV (last update: May 10, 2026)](cv.pdf)
+

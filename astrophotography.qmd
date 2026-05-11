@@ -4,15 +4,78 @@ format:
   html:
     theme: slate
     toc: true
+    lightbox: true
 ---
+
+## Night Sky Gallery
 
 Here are some of my favorite astrophotography shots:
 
 ---
 
+![](images/NGC6992_12h.jpg)
+
+Camera: ZWO ASI2600MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: Optolong L-Ultimate 
+Frames: 11*300  
+October 1, 2025 at Buffalo
+
+
+---
+
+![](images/M13_180_11_IR_PASS.png)
+
+**M13 Globular Cluster**
+
+Camera: ZWO ASI585MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: Antlia IR685 
+Frames: 11*300  
+September 1, 2025 at Buffalo
+
+---
+
+![](images/Image01_L_s.jpg)
+
+**Moon (3X drizzle)**
+
+Camera: ZWO ASI585MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: Antlia IR685  
+2025 summer at Buffalo
+
+---
+
+![](images/M16_50_300.png)
+
+**Pillars of Creation**
+
+Camera: ZWO ASI585MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: ZWO 1.25" Duo-Narrowband Filter  
+Frames: 50*300  
+2025 summer at Buffalo
+
+---
+
+![](images/NGC7000-22-2025-08-22.png)
+
+**Pelican Nebula**
+
+Camera: ZWO ASI585MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: ZWO 1.25" Duo-Narrowband Filter  
+Frames: 22*300  
+2025 summer at Buffalo
+
+---
+
 ![](images/M33_29_300.png)
 
-**M33** Telescope: Sky-watcher quattro 150P  
+**M33** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Clearsky ST17  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
@@ -23,18 +86,22 @@ Frames: 29*300
 
 ![](images/M42_PI.png)
 
-**The Great Orion Nebula** Telescope: Sky-watcher quattro 150P  
+**The Great Orion Nebula** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Clearsky ST17  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
-Frames: 25*60; 20*300; 14*600  
+Frames: 25\* 60; 20\* 300; 14\*600  
 13th Dec 2024 at Buffalo
 
 ---
 
 ![](images/NGC884_2700s.png)
 
-**h & χ Persei** Telescope: Sky-watcher quattro 150P  
+**h & χ Persei** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Clearsky ST17  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
@@ -45,7 +112,9 @@ Frames: 15*180
 
 ![](images/M81_18_300.png)
 
-**M81 & M82** Telescope: Sky-watcher quattro 150P  
+**M81 & M82** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Clearsky ST17  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
@@ -56,7 +125,8 @@ Frames: 18*300
 
 ![](images/M1_31_300.png)
 
-**The Crab Nebula (M1)** is a supernova remnant located in the constellation Taurus, approximately 6,500 light-years away from Earth. The supernova explosion that created the Crab Nebula was observed and recorded by ancient Chinese astronomers: In 1054 AD, a “guest star” (客星) suddenly appeared in the sky. This guest star was visible even during the day for 23 days and at night for almost two years.  
+**The Crab Nebula (M1)** is a supernova remnant located in the constellation Taurus, approximately 6,500 light-years away from Earth. The supernova explosion that created the Crab Nebula was observed and recorded by ancient Chinese astronomers: In 1054 AD, a “guest star” (客星) suddenly appeared in the sky. This guest star was visible even during the day for 23 days and at night for almost two years. 
+
 Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Sky-watcher SA GTI  
@@ -68,7 +138,9 @@ Frames: 31*300
 
 ![](images/IC343_20.png)
 
-**Horsehead Nebula (IC 434)** Telescope: Sky-watcher quattro 150P  
+**Horsehead Nebula (IC 434)** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Sky-watcher SA GTI  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
@@ -79,7 +151,9 @@ Frames: 37*300
 
 ![](images/M33_6000s.png)
 
-**Triangulum Galaxy (M33)** Telescope: Sky-watcher quattro 150P  
+**Triangulum Galaxy (M33)** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Sky-watcher SA GTI  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
@@ -90,7 +164,9 @@ Exposure time: 6000s
 
 ![](images/C20_3000s.png)
 
-**Caldwell 30 & Stephan's Quintet** Telescope: Sky-watcher quattro 150P  
+**Caldwell 30 & Stephan's Quintet** 
+
+Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Sky-watcher SA GTI  
 Filter: ZWO 1.25" Duo-Narrowband Filter  
@@ -101,7 +177,8 @@ Exposure time: 3000s
 
 ![](images/M31_4500s.png)
 
-**Andromeda Galaxy (M31)** is 2.5 million light-years away from us and is the closest galaxy to our Milky Way. In 1764, it was cataloged as the 31st entry in the Messier Catalog of star clusters and nebulae by the astronomer Messier, hence the name M31. The white bright spot on the left side of M31 is a dwarf galaxy called M32, which has been captured by M31's gravity.  
+**Andromeda Galaxy (M31)** is 2.5 million light-years away from us and is the closest galaxy to our Milky Way. In 1764, it was cataloged as the 31st entry in the Messier Catalog of star clusters and nebulae by the astronomer Messier, hence the name M31. The white bright spot on the left side of M31 is a dwarf galaxy called M32, which has been captured by M31's gravity. 
+
 Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Sky-watcher SA GTI  
@@ -114,6 +191,7 @@ Exposure time: 4500s
 ![](images/M45_2700s.png)
 
 **The Pleiades (M45)** is one of the most famous open star clusters in the night sky, known for its compact and bright stars. Located approximately 444 light-years from Earth, the Pleiades formed around 100 million years ago, making it a young star cluster. The blue reflection nebula surrounding the cluster is created by the starlight being reflected off the surrounding dust clouds. Due to the camera's sensor size limitation, I can only capture a part of it.  
+
 Telescope: Sky-watcher quattro 150P  
 Camera: ZWO ASI585MC pro  
 Equatorial Mount: Sky-watcher SA GTI  
@@ -125,7 +203,9 @@ Exposure time: 2700s
 
 ![](images/2024-09-18-moon-eclipse.png)
 
-**Moon eclipse** Telescope: Celestron 130eq  
+**Moon eclipse** 
+
+Telescope: Celestron 130eq  
 Camera: ZWO ASI585MC pro  
 18th Sep 2024 at Buffalo
 
@@ -133,7 +213,9 @@ Camera: ZWO ASI585MC pro
 
 ![](images/2024-09-17-0128_9-CapObj_lapl4_ap63372p.png)
 
-**Full Moon in Mid-autumn festival** Telescope: Celestron 130eq  
+**Full Moon in Mid-autumn festival** 
+
+Telescope: Celestron 130eq  
 Camera: ZWO ASI585MC pro  
 17th Sep 2024 at Buffalo
 
@@ -149,6 +231,36 @@ Camera: ZWO ASI585MC pro
 
 ![](images/2024-08-21-0446_3-CapObj_lapl4_ap69071.png)
 
-**Colorful Moon** Telescope: Celestron 130eq  
+**Colorful Moon** 
+
+Telescope: Celestron 130eq  
 Camera: ZWO ASI585MC pro  
 21st Aug 2024 at Buffalo
+
+---
+
+## My equipments
+
+Telescopes
+
+  * Celestron 130eq 
+  * Sky-Watcher 150p Newtonian
+  * Skyrover 50SAW 
+  
+Mounts
+
+  * Clearsky 17st
+  * Sky-Watcher SA gti
+  
+Cameras
+
+  * ZWO ASI2600MC pro
+  * ZWO ASI585MM pro
+  * ZWO ASI585MC pro
+  * ZWO ASI120mini
+  * Touptek GPM662M
+  
+Filters
+
+  * Broadband filters: Optolong UV/IR cut, Optolong IR685, Antlia IR685, Antlia R+ (700-1000nm), Antlia V pro RGB, XIMEI Custom 700-800nm, XIMEI Custom 825-875nm
+  * Narrowband filter: ZWO Duo-Band, HYO Duo-Narrowband, Optolong L-Ultimate, XIMEI SII (3nm) 

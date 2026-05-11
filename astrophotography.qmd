@@ -4,7 +4,25 @@ format:
   html:
     theme: slate
     toc: true
-    lightbox: true
+    include-in-header:
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
+    include-after-body:
+      - text: |
+          <script>
+            Fancybox.bind("img", {
+              wheel: "zoom",
+              Toolbar: {
+                display: {
+                  left: ["infobar"],
+                  middle: ["zoomIn", "zoomOut", "toggle1to1"],
+                  right: ["slideshow", "fullscreen", "download", "close"],
+                },
+              },
+            });
+          </script>
+page-layout: full
 ---
 
 ## Night Sky Gallery

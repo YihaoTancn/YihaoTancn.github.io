@@ -31,7 +31,48 @@ Here are some of my favorite astrophotography shots:
 
 ---
 
+![](images/IC 2177_resize.jpg)
+
+
+Camera: Large Synoptic Survey Telescope (LSST)  \
+Processed from Data Preview 1 (DP1), Vera C. Rubin Observatory
+
+
+---
+
+![](images/m42_ic434_1.jpg)
+
+Camera: ZWO ASI2600MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: Optolong L-Ultimate 
+Frames: 39*300  
+March 28, 2026 at Buffalo
+
+
+---
+
+![](images/NGC1494_LSST.jpg)
+**NGC1494 ugriz**
+
+Camera: Large Synoptic Survey Telescope (LSST)  \
+Processed from Data Preview 1 (DP1), Vera C. Rubin Observatory
+
+---
+
+![](images/M33_RGBHA_resize.jpg)
+**M33 Triangulum Galaxy RGB-Ha**
+
+Camera: ZWO ASI2600MC pro  
+Equatorial Mount: Clearsky ST17  
+Filter: (1) Optolong L-Ultimate, (2) Optolong UV/IR cut   \
+Frames: (1) 95\*300; (2) 115\*300   
+October 30, 2025 at Buffalo
+
+
+---
+
 ![](images/NGC6992_12h.jpg)
+**Veil Nebula**
 
 Camera: ZWO ASI2600MC pro  
 Equatorial Mount: Clearsky ST17  

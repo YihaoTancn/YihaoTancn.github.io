@@ -16,7 +16,7 @@ about:
 
 ## Bio
 
-I am is a Ph.D. candidate in Biostatistics at the State University of New York at Buffalo, with an expected graduation in December 2026. My research focuses on Bayesian Analysis, Empirical Bayes, Non-parametric Statistics, Clustering, Pharmacovigilance. 
+I am a Ph.D. candidate in Biostatistics at the State University of New York at Buffalo, with an expected graduation in December 2026. My research focuses on Bayesian Analysis, Empirical Bayes, Non-parametric Statistics, Clustering, Pharmacovigilance. 
 
 ## Curriculum Vitae
 

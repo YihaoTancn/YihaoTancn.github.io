@@ -29,6 +29,33 @@ page-layout: full
 
 Here are some of my favorite astrophotography shots:
 
+
+---
+
+![](images/M13_IR-RGB.jpg)
+
+Telescope: Sky-Watcher 150p Newtonian  
+Camera: ZWO ASI585MM pro  
+Equatorial Mount: Clearsky ST17  
+Filters:  
+XIMEI Custom 700-800nm (L) 36\*120s  
+Antlia LRGB-V Pro 15\*180s for RGB  
+May 30, 2026 at Buffalo
+
+
+---
+
+![](images/M51_F1_30_300.jpg)
+
+Telescope: Sky-Watcher 150p Newtonian  
+Camera: ZWO ASI585MM pro  
+Equatorial Mount: Clearsky ST17  
+Filter: XIMEI Custom 700-800nm    
+Frames: 30*300s  
+May 30, 2026 at Buffalo
+
+
+
 ---
 
 ![](images/IC 2177_resize.jpg)

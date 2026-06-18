@@ -29,6 +29,15 @@ page-layout: full
 
 Here are some of my favorite astrophotography shots:
 
+---
+
+![](images/NGC7000_51_300_LOW.jpg)
+Telescope: Skyrover 50SAW  
+Camera: ZWO ASI2600MC Pro  
+Equatorial Mount: Sky-Watcher SA GTI   
+Filter: Optolong L-Ultimate  
+Frames: 51*300s   
+June 6, 2026 at Buffalo
 
 ---
 

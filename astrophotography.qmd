@@ -31,6 +31,14 @@ Here are some of my favorite astrophotography shots:
 
 ---
 
+![](images/Abell 360 LSST.jpg)
+Abell 360 galaxy cluster, gri \
+Camera: Large Synoptic Survey Telescope (LSST)  \
+Processed from Data Preview 1 (DP1), Vera C. Rubin Observatory
+
+
+---
+
 ![](images/NGC7000_51_300_LOW.jpg)
 Telescope: Skyrover 50SAW  
 Camera: ZWO ASI2600MC Pro  

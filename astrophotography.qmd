@@ -29,6 +29,17 @@ page-layout: full
 
 Here are some of my favorite astrophotography shots:
 
+
+---
+
+![](images/ngc7000-remote.jpg)  
+Telescope: Skyrover 50SAW  
+Camera: ToupTek 2600m  
+Equatorial Mount: Sky-Watcher HEQ5   
+Filter: Optolong RGB + SHO (7nm)  
+Integration Time: 30.67 hours (SHO) + 3.45 hours (RGB)      
+September, 10 2026 at remote observatory, Inner Mongolia, China      
+
 ---
 
 ![](images/Abell 360 LSST.jpg)

@@ -32,6 +32,17 @@ Here are some of my favorite astrophotography shots:
 
 ---
 
+![](images/M31_RGB_HDR_L_croped.jpg) 
+
+M31 LRGB   
+Telescope: Skyrover 50SAW   
+Camera: Touptek 2600m   
+Mounts: HEQ5   
+Filers: Optolong LRGB   
+Frames: L 464\*300s; R 57\*600s; G 79\*600s; B 77\*600s   
+October 2026 at remote observatory, Inner Mongolia, China     
+---
+
 ![](images/ngc7000-remote.jpg)  
 Telescope: Skyrover 50SAW  
 Camera: ToupTek 2600m  
